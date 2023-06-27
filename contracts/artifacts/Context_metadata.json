@@ -1,0 +1,51 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ShieldTokenCoin.sol": "Context"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ShieldTokenCoin.sol": {
+			"keccak256": "0xe3f5a254fc4959546ed818547a3e76cfa2655a59d773ec19d1a1da290ed9dd7c",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://5e377c4cafff6e14222ca6c6673289db8bff95baa337c55163044d290bd6e53c",
+				"dweb:/ipfs/QmW3ME7uB9TPG1CT4HHiDCLSTazQiCyqgM4X3149FAXy7F"
+			]
+		}
+	},
+	"version": 1
+}
